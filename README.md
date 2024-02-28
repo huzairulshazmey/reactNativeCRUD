@@ -8,4 +8,4 @@ This is a step by step React Native Firebase tutorial. In this tutorial, we will
 * Git clone 
 * Go to databse > firebaseDb.js (enter firebase credentials)
 * `npm install`
-* `npm start`"# reactNativeCRUD" 
+* `npm start`
